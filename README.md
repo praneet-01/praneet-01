@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Praneet<br><br>🎓 Final Year Engineering Student at DIEMS<br> Passionate about Web Development, AI, and Problem Solving  <br>Currently building real-world projects using Flask, JavaScript, and APIs  <br><br>I’m learning:<br>- Backend development <br>- Data structures & algorithms<br>- AI-based applications  <br><br> Tech Stack:<br>- Languages: Python, Java, JavaScript  <br>- Web: HTML, CSS, JS, Flask  <br>- Tools: Git, GitHub  <br><br>Connect with me:  <br>- GitHub: https://github.com/praneet-01
+ Hi, I'm Praneet<br><br>🎓 Final Year Engineering Student at DIEMS<br> Passionate about Web Development, AI, and Problem Solving  <br>Currently building real-world projects using JavaScript, and APIs  <br><br>I’m learning:<br>- Backend development <br>- Data structures & algorithms<br>- AI-based applications  <br><br> Tech Stack:<br>- Languages: Python, Java, JavaScript  <br>- Web: HTML, CSS, JS, Flask  <br>- Tools: Git, GitHub  <br><br>Connect with me:  <br>- GitHub: https://github.com/praneet-01
 
 
 ## 🌐 Socials:
